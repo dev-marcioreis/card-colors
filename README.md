@@ -6,7 +6,7 @@ Testando efeitos de cores com CSS.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 HTML + CSS + JavaScript
 
 ## ✒️ Autor
